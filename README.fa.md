@@ -37,7 +37,7 @@
 
 ### **۳. نصب کتابخانه‌های مورد نیاز**
 
-**Command Prompt** را باز کنید (کلیدهای `Win + R` را فشار داده، `cmd` را تایپ کرده و Enter بزنید).  
+در ابتدا **Command Prompt** را باز کنید (کلیدهای `Win + R` را فشار داده، `cmd` را تایپ کرده و Enter بزنید).  
 
 به پوشه‌ای که اسکریپت را در آن ذخیره کرده‌اید، بروید:  
 ```powershell
@@ -62,7 +62,7 @@ pip install pillow numpy matplotlib
    python tavoosbaft.py image="/abs/path" color="Integer" rajshomar="Integer" widthcm="Integer" or widthpx="Integer"
    ```
 <details>  
-<summary>توضیحات ساختار دستور</summary>  
+<summary>توضیحات ساختار دستور فوق</summary>  
 هنگام اجرای اسکریپت، مطمئن شوید که مقادیر پیش‌فرض را با داده‌های خاص جایگزین می‌کنید. باید پارامترهای image، color، و rajshomar را به همراه دقیقاً یکی از پارامترهای عرض (widthcm یا widthpx) ارائه دهید.
 
 - **`image="/abs/path"`**: مسیر فایل تصویر شما.  
