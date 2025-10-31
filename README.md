@@ -1,7 +1,15 @@
 <p align="right">
-  <sub>
-    <a href="README.fa.md">🇮🇷 فارسی</a>
-  </sub>
+  <a href="README.fa.md" style="
+    text-decoration:none;
+    background:#f3f4f6;
+    color:#111;
+    padding:8px 12px;
+    border-radius:8px;
+    font-family: Vazirmatn, sans-serif;
+    font-size:14px;
+    border:1px solid #d1d5db;">
+    🇮🇷 فارسی
+  </a>
 </p>
 
 # 🧵 Tavoos Baft
