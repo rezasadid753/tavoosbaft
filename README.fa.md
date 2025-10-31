@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="README.fa.md">
+  <a href="README.md">
     <img src="https://img.shields.io/badge/_🇬🇧_English-555?style=flat-square&labelColor=darkblue&color=blue" alt="English">
   </a>
 </p>
@@ -118,67 +118,6 @@ python tavoosbaft.py image="/abs/path" color="Integer" rajshomar="Integer" width
 * **تصاویری از فرش** یا منسوجات بافته شده نهایی شما\!
 
 لطفاً تمام آثار ارسالی را به **rezasadid753@gmail.com** ارسال کنید تا با نام شما در اینجا منتشر شود. از شما سپاسگزاریم که هنر بافت را دیجیتال و در دسترس قرار می‌دهید\!
-
-## **📊 نمودار**
-
-```mermaid
-graph TD  
-    A\[User Runs tavoosbaft.py\] \--\> B\[Environment Check\]  
-    B \--\> C\[Parameter Processing\]
-
-    subgraph "Parameter Handling"  
-        C \--\> C1\[Read Input Parameters\]  
-        C1 \--\> C3\[Parameters Object\]  
-        C3 \--\> |Contains| C4\["- width: int  
-        \- height: int  
-        \- pattern\_type: str  
-        \- color\_scheme: dict"\]  
-    end
-
-    subgraph "Pattern Generation"  
-        D\[Pattern Generator\] \--\> D1\[Create Empty NumPy Array\]  
-        D1 \--\> D6\[2D NumPy Array\]  
-    end
-
-    subgraph "Image Processing"  
-        E\[Image Creation\] \--\> E1\[Convert Array to Image\]  
-        E1 \--\> |Using PIL| E2\[Apply Color Mapping\]  
-        E2 \--\> |RGB Values| E3\[Create Image Object\]  
-    end
-
-    subgraph "File Operations"  
-        F\[File Handling\] \--\> F1\[Generate Filename\]  
-        F1 \--\> |timestamp\_pattern.png| F2\[Save Image\]  
-        F1 \--\> |timestamp\_log.txt| F3\[Create Log Entry\]  
-    end
-
-    subgraph "Output & Logging"  
-        G\[Status Handling\] \--\> G1\[Write Log File\]  
-        G1 \--\> |Contains| G2\["- برچسب زمانی  
-        \- پارامترهای مورد استفاده  
-        \- زمان پردازش  
-        \- کد وضعیت  
-        \- داده‌های نقشه منسوجات  
-        \- پالت رنگ مورد استفاده"\]  
-        G \--\> G3\[Console Output\]  
-        G3 \--\> |Display| G4\["- پیام موفقیت/خطا  
-        \- محل ذخیره فایل  
-        \- خلاصه پردازش"\]  
-    end
-
-    C3 \--\> D  
-    D6 \--\> E  
-    E3 \--\> F  
-    F2 & F3 \--\> G
-
-    classDef process fill:\#f9f,stroke:\#333,stroke-width:2px;  
-    classDef data fill:\#bbf,stroke:\#333,stroke-width:2px;  
-    classDef io fill:\#bfb,stroke:\#333,stroke-width:2px;  
-      
-    class A,B,C,D,E,F,G process;  
-    class C3,D6,E3 data;  
-    class F1,F2,F3,G3 io;
-```
 
 ## **📝 مجوز**
 
