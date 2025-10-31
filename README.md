@@ -114,7 +114,7 @@ This section presents a beautiful example of a famous artwork processed by Tavoo
 
 ### Original vs. Processed Image
 
-| Original Art Image | Processed Woven Map Image |
+| Original Art Image | Processed Map Image |
 | :---: | :---: |
 | ![Original Image](https://github.com/rezasadid753/tavoosbaft/blob/main/Showcases/Floral%20Ladies%20and%20Bird%20Hans%20Zatzka%20Classic%20Flowers/image.jpg) | ![Processed Image](https://github.com/rezasadid753/tavoosbaft/blob/main/Showcases/Floral%20Ladies%20and%20Bird%20Hans%20Zatzka%20Classic%20Flowers/image_resized_350_reduced_90.jpg) |
 | The **original**, full-color art piece. | The **reduced** image (width=350px, colors=90) used to generate the codes. |
