@@ -1,3 +1,9 @@
+<p align="right">
+  <sub>
+    <a href="README.fa.md">🇮🇷 فارسی</a>
+  </sub>
+</p>
+
 # 🧵 Tavoos Baft
 
 Tavoos Baft is a Python-based tool for generating custom textile pattern maps. Designed for both technical users and beginners, it automates the process of creating, saving, and analyzing textile designs with minimal setup.
