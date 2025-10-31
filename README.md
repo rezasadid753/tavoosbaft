@@ -1,14 +1,6 @@
 <p align="right">
-  <a href="README.fa.md" style="
-    text-decoration:none;
-    background:#f3f4f6;
-    color:#111;
-    padding:8px 12px;
-    border-radius:8px;
-    font-family: Vazirmatn, sans-serif;
-    font-size:14px;
-    border:1px solid #d1d5db;">
-    🇮🇷 فارسی
+  <a href="README.fa.md">
+    <img src="https://img.shields.io/badge/_🇮🇷_Persian-555?style=flat-square&labelColor=darkred&color=red" alt="Persian">
   </a>
 </p>
 
