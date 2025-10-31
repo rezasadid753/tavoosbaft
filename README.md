@@ -109,6 +109,45 @@ When running the script, ensure you replace the placeholder values with specific
 
 ---
 
+## ✨ Showcase: Floral Ladies and Bird Hans Zatzka Classic Flowers
+
+This section presents a beautiful example of a famous artwork processed by Tavoos Baft. The resulting output is a color-reduced, sized-down image and the corresponding textile codes, ready for weaving.
+
+### Original vs. Processed Image
+
+| Original Art Image | Processed Woven Map Image |
+| :---: | :---: |
+| ![Original Image](https://github.com/rezasadid753/tavoosbaft/blob/main/Showcases/Floral%20Ladies%20and%20Bird%20Hans%20Zatzka%20Classic%20Flowers/image.jpg) | ![Processed Image](https://github.com/rezasadid753/tavoosbaft/blob/main/Showcases/Floral%20Ladies%20and%20Bird%20Hans%20Zatzka%20Classic%20Flowers/image_resized_350_reduced_90.jpg) |
+| The **original**, full-color art piece. | The **reduced** image (width=350px, colors=90) used to generate the codes. |
+
+### Downloadable Codes and Color Palette
+
+The Tavoos Baft script processes the image and generates a comprehensive log file. For ease of use and immediate reference, two neatly designed PDF versions have been created from the log file, detailing the final output:
+
+* **[Download Coded Pattern File (`codes.pdf`)](Showcases/Floral%20Ladies%20and%20Bird%20Hans%20Zatzka%20Classic%20Flowers/codes.pdf)**
+* **[Download Color Palette File (`colors.pdf`)](Showcases/Floral%20Ladies%20and%20Bird%20Hans%20Zatzka%20Classic%20Flowers/colors.pdf)**
+
+### 🖼️ Art & Licensing Note
+
+The source image for this showcase is the exquisite work **"Floral Ladies and Bird Classic Flowers"** by the highly celebrated Austrian artist **Hans Zatzka**.
+
+Since the artist, Hans Zatzka, died in 1945, this artwork is generally considered to be in the **Public Domain** in many regions (like the US and countries following the life-plus-70 years rule, as of 2025). This showcase is presented under the belief that the original artwork is in the public domain and, in accordance with the Tavoos Baft license, the resulting pattern is for **personal and non-commercial use only.**
+
+**A Note on the Source:** This specific image was originally discovered via a Google search on an Amazon product gallery, which did not provide a definitive official source or reference. If you know the exact, authoritative source of this particular reproduction, please open an issue or contact me so I can give proper attribution.
+
+### 💖 Your Contributions
+
+Tavoos Baft is a tool for the community. If you have generated your own beautiful textile codes using Tavoos Baft, I would love to feature them here!
+
+**Feel free to send your:**
+* **Log Files** or the **`codes.pdf`** and **`colors.pdf`** you create.
+* The **original image** you used.
+* Pictures of your **finished woven carpet**!
+
+Please send all submissions to **rezasadid753@gmail.com** to be published here with your name.
+
+---
+
 ## 📊 Diagram
 
 ```mermaid
